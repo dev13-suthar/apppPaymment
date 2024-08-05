@@ -8,7 +8,7 @@ import { Button } from "@repo/ui/components/ui/button";
 export default function Page(): JSX.Element {
   return (
    <div>
-      <p className="text-red-500 bg-purple-600">fuck devv</p>
+      <p className="text-red-500 bg-purple-600">devv</p>
       <Button>CLick</Button>
    </div>
   );
